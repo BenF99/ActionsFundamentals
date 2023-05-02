@@ -1,5 +1,5 @@
 name: 'Hello World Docker Action'
-run-name: 'Good Greetings ${{ inputs.who-to-greet}}'
+run-name: 'Good Greetings ${{ github.event.inputs.who-to-greet }}'
 description: 'Say hello!'
 
 inputs:
