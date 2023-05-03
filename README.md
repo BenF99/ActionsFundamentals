@@ -35,24 +35,24 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 - [x] GitHub Actions
 - [x] Types of Actions
 - [x] 🔨 Hands-on: [My first container Action](hol/02-My-first-action.md)
-- [ ] Typescript and composite actions
-- [ ] Sharing and releasing actions
-- [ ] Using the GitHub API and Octokit
-- [ ] Job descriptions
+- [x] Typescript and composite actions
+- [x] Sharing and releasing actions
+- [x] Using the GitHub API and Octokit
+- [x] Job descriptions
 
 ### Day 2
-- [ ] Introduction
-- [ ] Actions for CI/CD
-- [ ] Permissions for GitHub Token
-- [ ] Environments and Secrets
-- [ ] Staged deployments with environments, approvals, and deployment gates
-- [ ] 🔨 Hands-on: [Staged deployments](hol/03-Staged-deployments.md)
-- [ ] :coffee: Break
-- [ ] Action policies
-- [ ] Running your workflows
-- [ ] Sharing workflows
-- [ ] 🔨 Hands-on: [Reusable workflows](hol/04_Reusable-workflows.md)
-- [ ] Best practices and security
+- [x] Introduction
+- [x] Actions for CI/CD
+- [x] Permissions for GitHub Token
+- [x] Environments and Secrets
+- [x] Staged deployments with environments, approvals, and deployment gates
+- [x] 🔨 Hands-on: [Staged deployments](hol/03-Staged-deployments.md)
+- [x] :coffee: Break
+- [x] Action policies
+- [x] Running your workflows
+- [x] Sharing workflows
+- [x] 🔨 Hands-on: [Reusable workflows](hol/04_Reusable-workflows.md)
+- [x] Best practices and security
 
 
 ## ⚡ Prerequisites
